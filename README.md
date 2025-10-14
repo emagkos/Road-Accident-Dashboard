@@ -76,7 +76,7 @@ Data:
 
 Template
 ------------------------------------------------------------
-
+You can find a template to test the dashboard under data\Road_Accidents_Dashboard_template.csv
 
 BUGS  /  Known issues & reporting
 ------------------------------------------------------------
