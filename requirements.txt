@@ -6,3 +6,6 @@ folium
 streamlit-folium
 plotly
 scikit-learn
+python-docx==1.1.2
+kaleido==0.2.1
+
